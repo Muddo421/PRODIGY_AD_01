@@ -24,3 +24,7 @@ Java
 Contribution:
 
 Feel free to fork this repository and contribute your improvements!
+
+How this application looks like -->
+
+![my application](https://github.com/user-attachments/assets/975941af-cb34-4440-9aff-1b307a9019ef)
